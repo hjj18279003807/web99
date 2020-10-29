@@ -1,0 +1,25 @@
+
+  
+  #a1{
+    text-align: center;
+
+     width: 1000px;
+     height: 450px;
+      
+  }
+  #a2{
+    height: 150px;
+      width: 300px;
+      border: darkgray solid 0.0625px;
+      float: left;
+      text-align: center;
+      font-weight: bold;
+      line-height: 100px;
+  }
+  #a3{
+    height: 150px;
+      width: 900px;
+      border: darkgray solid 0.0625px;
+  }
+
+      
